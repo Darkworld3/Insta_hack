@@ -13,9 +13,9 @@
 
 * `apt install python3-pip`
 
-* `git clone https://github.com/Darkworld3/INSTAHACK`
+* `git clone https://github.com/Darkworld3/Dark.git
 
-* `cd INSTAHACK`
+* `cd Dark`
 
 * `pip install -r requirements.txt`
 
